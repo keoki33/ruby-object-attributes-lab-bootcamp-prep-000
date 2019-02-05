@@ -11,3 +11,4 @@ def name=(name)
   def breed=(breed)
     @breed = breed
 end
+end
